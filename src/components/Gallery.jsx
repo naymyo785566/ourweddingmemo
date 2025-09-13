@@ -2,27 +2,27 @@ import PhotoCard from "./PhotoCard";
 
 const photos = [
   {
-    src: "/src/img/pre-2.jpg",
+    src: "/public/img/pre-2.jpg",
     alt: "",
   },
   {
-    src: "/src/img/pre-3.jpg",
+    src: "/public/img/pre-3.jpg",
     alt: "",
   },
   {
-    src: "/src/img/pre-4.jpg",
+    src: "/public/img/pre-4.jpg",
     alt: "",
   },
   {
-    src: "/src/img/pre-5.jpg",
+    src: "/public/img/pre-5.jpg",
     alt: "",
   },
   {
-    src: "/src/img/pre-6.jpg",
+    src: "/public/img/pre-6.jpg",
     alt: "",
   },
   {
-    src: "/src/img/pre-9.jpg",
+    src: "/public/img/pre-9.jpg",
     alt: "",
   },
 ];

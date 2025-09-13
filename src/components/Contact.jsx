@@ -85,14 +85,14 @@ export default function Contact() {
         {/* Payment Images */}
         <div className="flex justify-center mx-auto mt-5 shadow-md p-4 rounded-md border">
           <img
-            src="/src/img/kpay.jpg"
+            src="/public/img/kpay.jpg"
             alt="KPay"
             className="w-48 h-80 object-cover"
           />
         </div>
         <div className="flex justify-center mx-auto mt-5 shadow-md p-4 rounded-md border">
           <img
-            src="/src/img/yoma.jpg"
+            src="/public/img/yoma.jpg"
             alt="Yoma"
             className="w-48 h-80 object-cover"
           />

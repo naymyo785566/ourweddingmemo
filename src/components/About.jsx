@@ -13,7 +13,7 @@ export default function About() {
         </div>
         <div>
           <img
-            src="/src/img/pre-12.jpg"
+            src="/public/img/pre-12.jpg"
             alt="couple story"
             className="w-full rounded-lg shadow-lg object-cover h-72"
           />
@@ -22,7 +22,7 @@ export default function About() {
       <div className="grid md:grid-cols-2 gap-8 items-center">
         <div>
           <img
-            src="/src/img/pre-10.jpg"
+            src="/public/img/pre-10.jpg"
             alt="couple story"
             className="w-full rounded-lg shadow-lg object-cover h-72"
           />
