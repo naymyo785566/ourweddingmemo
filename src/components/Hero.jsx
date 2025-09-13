@@ -1,7 +1,7 @@
 import { motion } from "framer-motion";
 
 export default function Hero() {
-  const bg = "/public/img/pre-1.jpg"; // Replace with your image path
+  const bg = "/img/pre-1.jpg"; // Replace with your image path
 
   return (
     <section
